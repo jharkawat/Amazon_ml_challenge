@@ -10,7 +10,7 @@ Code base of for Product Browse Node Classification
 | ---------- | ------- | -------------------- |
 | Python     | 3.8     | `conda create --name covid_entities python=3.8` and `conda activate covid_entities` |
 | PyTorch, cudatoolkit    | 1.5.0, 10.1   | `conda install pytorch==1.5.0 cudatoolkit=10.1 -c pytorch` |
-| Transformers (Huggingface) | 2.9.0 | `pip install transformers==2.9.0` |
+| Transformers 🤗 (Huggingface) | 2.9.0 | `pip install transformers==2.9.0` |
 | Scikit-learn | 0.23.1 | `pip install scikit-learn==0.23.1` |
 | scipy        | 1.5.0  | `pip install scipy==1.5.0` |
 | NLTK    | 3.5  | `pip install nltk==3.5` |
@@ -93,4 +93,4 @@ Tejas Vaidhya | Jalaj Harkawat | Hardik Aggarwal | Apoorve Singhle
 # Miscellanous
 - **License**: MIT
 - You may contact us by opening an issue on this repo. Please allow 2-3 days of time to address the issue.
-
+- For query related to dataset, Please contact [@Hackerearth](https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge/problems/) or [@Amazon ML India](https://amazonscienceindia.splashthat.com/)
